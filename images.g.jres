@@ -1,0 +1,22 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC8DAAAAAAAwLvLAAAAAAC6+68MAAAAwKurr8wAAADA+r/LDAAAAMDKv7oMAAAAAKCqvwAAAAAAwKysAAAAAAAAzAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "asteroid"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAiAAAAAAAAICIAAAAAAAAiIgAAAAAAACPiAAAAAAAgI+IAAAAAACMb4gAAAAAiHxsZszMz494fHxm3b1/f1V2dncAAAAAZlZ2dwAAAAAAZn93AAAAAABgX3UAAAAAAAB2VwAAAAAAAGZ3AAAAAAAAYGYAAAAAAAAAZg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "spaceship"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsL0AAAAAAAC8vQwAAAAAu1xVvAsAAABbVVFVCwAAAFxVUVXMAAC7VRURVbULAN0VERER1Q0Au1UVEVW1CwDAXFVRVcwAAABbVVFVCwAAALtcVbwLAAAAALy9DAAAAAAAsL0AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "laser"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
